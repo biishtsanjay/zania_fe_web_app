@@ -1,9 +1,11 @@
 🚀➡🧨👾 Here is the DEPLOYMENT LINK for the application -> [https://cardmanagement.netlify.app](https://cardmanagement.netlify.app/)
 
+**This is only the frontend application.**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Made using ReactJS, React dnd, Mock service worker, CSS, HTML.
 
-In the project directory,to run the app you need to run:  `npm install`  and then `npm start`.
+In the project directory,to run the app you need to clone the repository and in terminal run:  `npm install`  and then `npm start`.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
