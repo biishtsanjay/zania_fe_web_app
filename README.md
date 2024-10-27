@@ -16,3 +16,4 @@ Which means it will retain positions even on brower refreshes, and multiple sess
 After each 5 seconds data is automatically saved.
 
 Cards also have click behaviour.
+<img width="1068" alt="Screenshot 2024-10-27 at 11 42 17 AM" src="https://github.com/user-attachments/assets/2a45bebe-4801-411f-8edf-6cefa04b3512">
