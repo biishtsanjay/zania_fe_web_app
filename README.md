@@ -1,4 +1,4 @@
-🚀➡🧨👾 Here is the DEPLOYMENT LINK for the application -> [https://cardmanagement.netlify.app](https://cardmanagement.netlify.app/)
+🚀➡🧨👾 Here is the DEPLOYMENT LINK for the application -> https://zania-fe-web-1a2v8dazg-bishts-projects.vercel.app/
 
 **This is only the frontend application.**
 
